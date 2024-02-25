@@ -8,8 +8,8 @@ repos:
         types: [python]
         args:
           [
-            "-rn", # only idsplay messages
+            "-rn", # only display messages
             "-sn", # don`t display the score
-            "--rcfile-.pylintrc", # link to my config file
+            "--rcfile=.pylintrc", # link to my config file
             "--load-plugins=pylint.extensions.docparams", # load an extension
           ]
