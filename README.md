@@ -1,0 +1,1 @@
+Este projeto consiste em um sistema para geração de codigo de barra. Ele funciona da seguinte forma: dado uma requisição com valor do codigo de barra, o sistema gerará uma imagem do código de barra para o mesmo.
